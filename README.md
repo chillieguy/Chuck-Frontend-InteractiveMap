@@ -1,6 +1,7 @@
 # Chuck-Frontend-InteractiveMap
 Project 5 for the Udacity FEND - Creating an interactive map using Knockout, Google Maps and a third party API
 
+Project can be viewed at this link [Chuck Underwood Project 5](http://chillieguy.github.io/Chuck-Frontend-InteractiveMap).
 
 ## Resources Used
 
