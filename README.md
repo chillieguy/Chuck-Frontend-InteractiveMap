@@ -4,7 +4,9 @@ Project 5 for the Udacity FEND - Creating an interactive map using Knockout, Goo
 Project can be viewed at this link [Chuck Underwood Project 5](http://chillieguy.github.io/Chuck-Frontend-InteractiveMap).
 
 ## Resources Used
-
+* [Google Maps JavaScript API v3](https://developers.google.com/maps/documentation/javascript/examples/)
+* [Google Maps API Tutorials](https://developers.google.com/maps/tutorials/)
+* 
 
 # Class Intstructions - Project Overview
 
